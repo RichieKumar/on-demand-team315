@@ -1,0 +1,6 @@
+{
+    "domain": "dev-fp7u5r2i.us.auth0.com",
+    "clientId": "qmd3y33t5TbYpHq2T8pS5hnrp0XbQcfi",
+    "audience": "https://dev-fp7u5r2i.us.auth0.com/api/v2/",
+    "scope": "read:current_user"
+}
