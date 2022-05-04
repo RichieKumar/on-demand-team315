@@ -199,8 +199,6 @@ class MyGoogleMap extends Component {
                     <div className="map-details">Zoom: <span>{this.state.zoom}</span></div>
                     <div className="map-details">Address: <span>{this.state.address}</span></div>
                 </div>
-
-
             </Wrapper >
         );
     }

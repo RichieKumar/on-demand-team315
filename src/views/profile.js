@@ -36,6 +36,7 @@ const Profile = () => {
     getUserMetadata();
   }, [getAccessTokenSilently, user?.sub]);
 
+
   var axios = require("axios").default;
 
 var options = {
